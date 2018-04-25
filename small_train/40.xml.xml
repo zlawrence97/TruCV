@@ -1,0 +1,38 @@
+<annotation>
+	<folder>small_train</folder>
+	<filename>40.jpg</filename>
+	<path>/home/john/TruCV/small_train/40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>3600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball player</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1024</xmin>
+			<ymin>572</ymin>
+			<xmax>2289</xmax>
+			<ymax>3600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>1892</ymin>
+			<xmax>1076</xmax>
+			<ymax>2396</ymax>
+		</bndbox>
+	</object>
+</annotation>
