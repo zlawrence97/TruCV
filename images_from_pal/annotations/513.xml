@@ -1,0 +1,49 @@
+<annotation>
+    <folder>basketballImages</folder>
+    <filename>513.jpg</filename>
+    <size>
+        <width>1200</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>585</xmin>
+            <ymin>106</ymin>
+            <xmax>737</xmax>
+            <ymax>723</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>143</xmin>
+            <ymin>138</ymin>
+            <xmax>373</xmax>
+            <ymax>714</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>542</xmin>
+            <ymin>26</ymin>
+            <xmax>610</xmax>
+            <ymax>100</ymax>
+        </bndbox>
+    </object>
+</annotation>

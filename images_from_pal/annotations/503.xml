@@ -1,0 +1,127 @@
+<annotation>
+    <folder>basketballImages</folder>
+    <filename>503.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>311</xmin>
+            <ymin>719</ymin>
+            <xmax>557</xmax>
+            <ymax>1078</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1373</xmin>
+            <ymin>410</ymin>
+            <xmax>1494</xmax>
+            <ymax>787</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1279</xmin>
+            <ymin>473</ymin>
+            <xmax>1370</xmax>
+            <ymax>795</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1185</xmin>
+            <ymin>394</ymin>
+            <xmax>1290</xmax>
+            <ymax>744</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1124</xmin>
+            <ymin>329</ymin>
+            <xmax>1211</xmax>
+            <ymax>604</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1094</xmin>
+            <ymin>394</ymin>
+            <xmax>1154</xmax>
+            <ymax>744</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>917</xmin>
+            <ymin>305</ymin>
+            <xmax>1018</xmax>
+            <ymax>586</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1003</xmin>
+            <ymin>403</ymin>
+            <xmax>1094</xmax>
+            <ymax>724</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>313</ymin>
+            <xmax>288</xmax>
+            <ymax>588</ymax>
+        </bndbox>
+    </object>
+</annotation>

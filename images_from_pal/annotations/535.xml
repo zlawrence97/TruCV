@@ -1,0 +1,49 @@
+<annotation>
+    <folder>basketballImages</folder>
+    <filename>535.jpg</filename>
+    <size>
+        <width>960</width>
+        <height>783</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>basketball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48</xmin>
+            <ymin>276</ymin>
+            <xmax>158</xmax>
+            <ymax>369</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>486</xmin>
+            <ymin>65</ymin>
+            <xmax>764</xmax>
+            <ymax>765</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>basketball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>96</ymin>
+            <xmax>471</xmax>
+            <ymax>725</ymax>
+        </bndbox>
+    </object>
+</annotation>
