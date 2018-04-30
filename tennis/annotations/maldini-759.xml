@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>maldini-759.jpg</filename>
+    <size>
+        <width>759</width>
+        <height>422</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>202</xmin>
+            <ymin>3</ymin>
+            <xmax>717</xmax>
+            <ymax>422</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>392</xmin>
+            <ymin>238</ymin>
+            <xmax>458</xmax>
+            <ymax>303</ymax>
+        </bndbox>
+    </object>
+</annotation>

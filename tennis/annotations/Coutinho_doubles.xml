@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>Coutinho_doubles.jpg</filename>
+    <size>
+        <width>1240</width>
+        <height>620</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>662</xmin>
+            <ymin>272</ymin>
+            <xmax>714</xmax>
+            <ymax>326</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>504</xmin>
+            <ymin>40</ymin>
+            <xmax>855</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>
+</annotation>

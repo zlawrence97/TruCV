@@ -1,0 +1,49 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>Screen Shot 2018-04-30 at 12.51.31 AM.png</filename>
+    <size>
+        <width>2560</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1448</xmin>
+            <ymin>585</ymin>
+            <xmax>1480</xmax>
+            <ymax>620</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1485</xmin>
+            <ymin>323</ymin>
+            <xmax>1598</xmax>
+            <ymax>491</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1115</xmin>
+            <ymin>849</ymin>
+            <xmax>1292</xmax>
+            <ymax>1170</ymax>
+        </bndbox>
+    </object>
+</annotation>

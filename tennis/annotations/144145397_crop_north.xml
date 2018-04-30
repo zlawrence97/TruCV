@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>144145397_crop_north.jpg</filename>
+    <size>
+        <width>800</width>
+        <height>533</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>251</xmin>
+            <ymin>341</ymin>
+            <xmax>287</xmax>
+            <ymax>370</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>98</xmin>
+            <ymin>10</ymin>
+            <xmax>737</xmax>
+            <ymax>508</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,23 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>53b53452-c448-4ddd-b028-7764c0b9a929.png</filename>
+    <size>
+        <width>691</width>
+        <height>383</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>220</xmin>
+            <ymin>54</ymin>
+            <xmax>489</xmax>
+            <ymax>383</ymax>
+        </bndbox>
+    </object>
+</annotation>

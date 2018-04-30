@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>images.jpeg</filename>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>24</ymin>
+            <xmax>214</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>65</xmin>
+            <ymin>111</ymin>
+            <xmax>75</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>gstaad-2017-saturday-hanfmann.jpg</filename>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>215</xmin>
+            <ymin>76</ymin>
+            <xmax>1289</xmax>
+            <ymax>940</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1353</xmin>
+            <ymin>612</ymin>
+            <xmax>1411</xmax>
+            <ymax>669</ymax>
+        </bndbox>
+    </object>
+</annotation>

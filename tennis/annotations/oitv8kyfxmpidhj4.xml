@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>oitv8kyfxmpidhj4.jpg</filename>
+    <size>
+        <width>400</width>
+        <height>250</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>280</xmin>
+            <ymin>65</ymin>
+            <xmax>304</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>154</xmin>
+            <ymin>13</ymin>
+            <xmax>263</xmax>
+            <ymax>250</ymax>
+        </bndbox>
+    </object>
+</annotation>
