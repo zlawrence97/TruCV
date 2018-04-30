@@ -1,0 +1,50 @@
+<annotation>
+	<folder>basketball_training_imgs</folder>
+	<filename>Screenshot from 2018-04-24 18:07:00.png</filename>
+	<path>/home/workstation3/TruCV/basketball_training_imgs/Screenshot from 2018-04-24 18:07:00.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basketball player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>294</ymin>
+			<xmax>747</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>basketball player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>286</ymin>
+			<xmax>961</xmax>
+			<ymax>666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>basketball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>252</ymin>
+			<xmax>862</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>
