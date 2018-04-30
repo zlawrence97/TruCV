@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>KOFBZ2RRCZEHLIGWOL624VFYGQ.jpeg</filename>
+    <size>
+        <width>1020</width>
+        <height>691</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>495</xmin>
+            <ymin>22</ymin>
+            <xmax>963</xmax>
+            <ymax>546</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>146</xmin>
+            <ymin>330</ymin>
+            <xmax>179</xmax>
+            <ymax>362</ymax>
+        </bndbox>
+    </object>
+</annotation>

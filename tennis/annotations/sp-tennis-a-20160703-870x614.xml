@@ -1,0 +1,36 @@
+<annotation>
+    <folder>tennis</folder>
+    <filename>sp-tennis-a-20160703-870x614.jpg</filename>
+    <size>
+        <width>870</width>
+        <height>614</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tennis ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>158</xmin>
+            <ymin>329</ymin>
+            <xmax>196</xmax>
+            <ymax>368</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>tennis player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>223</xmin>
+            <ymin>19</ymin>
+            <xmax>642</xmax>
+            <ymax>591</ymax>
+        </bndbox>
+    </object>
+</annotation>
