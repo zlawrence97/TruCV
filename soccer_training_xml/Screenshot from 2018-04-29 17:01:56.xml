@@ -1,0 +1,98 @@
+<annotation>
+	<folder>soccer_training_imgs</folder>
+	<filename>Screenshot from 2018-04-29 17:01:56.png</filename>
+	<path>/home/workstation3/soccer_training_imgs/Screenshot from 2018-04-29 17:01:56.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccerball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>904</xmin>
+			<ymin>663</ymin>
+			<xmax>1024</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>102</ymin>
+			<xmax>256</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>172</ymin>
+			<xmax>461</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>470</xmin>
+			<ymin>160</ymin>
+			<xmax>681</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>735</xmin>
+			<ymin>152</ymin>
+			<xmax>924</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>117</ymin>
+			<xmax>1412</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>referee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>192</ymin>
+			<xmax>1013</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

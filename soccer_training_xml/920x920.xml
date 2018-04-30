@@ -1,0 +1,86 @@
+<annotation>
+	<folder>soccer_training_imgs</folder>
+	<filename>920x920.jpg</filename>
+	<path>/home/workstation3/soccer_training_imgs/920x920.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>920</width>
+		<height>671</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccerball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>405</xmin>
+			<ymin>476</ymin>
+			<xmax>492</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>67</ymin>
+			<xmax>348</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>122</ymin>
+			<xmax>543</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>88</ymin>
+			<xmax>399</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>112</ymin>
+			<xmax>726</xmax>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>93</ymin>
+			<xmax>866</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

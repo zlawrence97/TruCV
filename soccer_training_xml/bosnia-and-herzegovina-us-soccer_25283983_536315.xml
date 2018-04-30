@@ -1,0 +1,62 @@
+<annotation>
+	<folder>soccer_training_imgs</folder>
+	<filename>bosnia-and-herzegovina-us-soccer_25283983_536315.jpg</filename>
+	<path>/home/workstation3/soccer_training_imgs/bosnia-and-herzegovina-us-soccer_25283983_536315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>811</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>168</ymin>
+			<xmax>615</xmax>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>259</ymin>
+			<xmax>473</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>93</ymin>
+			<xmax>347</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccerball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>49</ymin>
+			<xmax>422</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

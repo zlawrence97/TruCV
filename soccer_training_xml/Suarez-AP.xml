@@ -1,0 +1,50 @@
+<annotation>
+	<folder>soccer_training_imgs</folder>
+	<filename>Suarez-AP.jpg</filename>
+	<path>/home/workstation3/soccer_training_imgs/Suarez-AP.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>57</ymin>
+			<xmax>148</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>24</ymin>
+			<xmax>389</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>369</xmin>
+			<ymin>169</ymin>
+			<xmax>511</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

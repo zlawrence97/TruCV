@@ -1,0 +1,110 @@
+<annotation>
+	<folder>soccer_training_imgs</folder>
+	<filename>Screenshot from 2018-04-29 16:57:31.png</filename>
+	<path>/home/workstation3/soccer_training_imgs/Screenshot from 2018-04-29 16:57:31.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>627</xmin>
+			<ymin>403</ymin>
+			<xmax>675</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>414</ymin>
+			<xmax>510</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>497</ymin>
+			<xmax>918</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>945</xmin>
+			<ymin>408</ymin>
+			<xmax>984</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>366</ymin>
+			<xmax>930</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccer players</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1119</xmin>
+			<ymin>442</ymin>
+			<xmax>1181</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>soccerball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>907</xmin>
+			<ymin>479</ymin>
+			<xmax>932</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>referee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1205</xmin>
+			<ymin>569</ymin>
+			<xmax>1282</xmax>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+</annotation>
