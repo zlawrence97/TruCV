@@ -1,0 +1,40 @@
+<annotation>
+    <folder>baseball</folder>
+    <filename>14.jpeg</filename>
+    <size>
+        <width>294</width>
+        <height>171</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>baseball player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>197</x1>
+            <y1>171</y1>
+            <x2>292</x2>
+            <y2>113</y2>
+            <x3>160</x3>
+            <y3>15</y3>
+            <x4>65</x4>
+            <y4>75</y4>
+        </polygon>
+    </object>
+    <object>
+        <name>baseball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>217</xmin>
+            <ymin>56</ymin>
+            <xmax>230</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+</annotation>
