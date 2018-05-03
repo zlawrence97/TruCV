@@ -1,0 +1,36 @@
+<annotation>
+    <folder>soccer</folder>
+    <filename>Screen Shot 2018-05-03 at 5.42.09 PM.png</filename>
+    <size>
+        <width>2560</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1885</xmin>
+            <ymin>869</ymin>
+            <xmax>2560</xmax>
+            <ymax>1265</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1127</xmin>
+            <ymin>164</ymin>
+            <xmax>1929</xmax>
+            <ymax>1187</ymax>
+        </bndbox>
+    </object>
+</annotation>

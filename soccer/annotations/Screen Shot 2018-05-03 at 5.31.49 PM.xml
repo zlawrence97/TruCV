@@ -1,0 +1,88 @@
+<annotation>
+    <folder>soccer</folder>
+    <filename>Screen Shot 2018-05-03 at 5.31.49 PM.png</filename>
+    <size>
+        <width>2560</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>soccer ball</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>923</xmin>
+            <ymin>682</ymin>
+            <xmax>1017</xmax>
+            <ymax>773</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1195</xmin>
+            <ymin>964</ymin>
+            <xmax>1470</xmax>
+            <ymax>1521</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>967</xmin>
+            <ymin>956</ymin>
+            <xmax>1268</xmax>
+            <ymax>1519</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>942</xmin>
+            <ymin>687</ymin>
+            <xmax>1201</xmax>
+            <ymax>1185</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1235</xmin>
+            <ymin>724</ymin>
+            <xmax>1751</xmax>
+            <ymax>1236</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>606</xmin>
+            <ymin>1030</ymin>
+            <xmax>1004</xmax>
+            <ymax>1253</ymax>
+        </bndbox>
+    </object>
+</annotation>

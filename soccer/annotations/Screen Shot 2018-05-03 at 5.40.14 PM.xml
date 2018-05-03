@@ -1,0 +1,23 @@
+<annotation>
+    <folder>soccer</folder>
+    <filename>Screen Shot 2018-05-03 at 5.40.14 PM.png</filename>
+    <size>
+        <width>2560</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>soccer player</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>691</xmin>
+            <ymin>531</ymin>
+            <xmax>1905</xmax>
+            <ymax>1217</ymax>
+        </bndbox>
+    </object>
+</annotation>
