@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>Screenshot from 2018-05-03 17:51:08.png</filename>
+	<path>/home/workstation3/Pictures/Screenshot from 2018-05-03 17:51:08.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baseball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>581</xmin>
+			<ymin>277</ymin>
+			<xmax>613</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>baseball player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>260</ymin>
+			<xmax>478</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>baseball</folder>
+	<filename>14.jpeg</filename>
+	<path>/home/workstation3/TruCV/baseball/14.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baseball player</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>15</ymin>
+			<xmax>286</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>baseball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>51</ymin>
+			<xmax>234</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>
